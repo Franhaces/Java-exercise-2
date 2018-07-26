@@ -17,11 +17,11 @@ Ejercicios Java
 ##### **Crea los distintos .java dentro de un package de nombre actividad03. Comenta <br />  cada función indicando qué hacen y qué parámetros reciben y retornan (si reciben y <br />  retornan alguno)**
 
 
-1. Ejercicio01.java: crea una función  int pideEntero (String pregunta)  que reciba un texto <br />  por parámetro. La función ha de mostrar el texto pasado como parámetro, pedir un <br />  número por consola (si el usuario no introduce un número se ha de volver a pedirlo <br />  repitiendo el proceso hasta que el usuario introduzca un valor numérico) y retornar el <br />  número introducido como un entero.
+1. **Ejercicio01.java**: crea una función  int pideEntero (String pregunta)  que reciba un texto <br />  por parámetro. La función ha de mostrar el texto pasado como parámetro, pedir un <br />  número por consola (si el usuario no introduce un número se ha de volver a pedirlo <br />  repitiendo el proceso hasta que el usuario introduzca un valor numérico) y retornar el <br />  número introducido como un entero.
 
-2. Ejercicio01.java: añade una función de nombre pideDouble, que retorne un número <br />  entero, reciba una String como parámetro  y con el funcionamiento parecido a la <br />  función  pideEntero() pero que en vez de retornar un entero retorne un double.
+2. **Ejercicio01.java:** añade una función de nombre pideDouble, que retorne un número <br />  entero, reciba una String como parámetro  y con el funcionamiento parecido a la <br />  función  pideEntero() pero que en vez de retornar un entero retorne un double.
 
-3. Ejercicio01.java: añade el código que muestre por consola un  menú con las siguientes <br />  opciones (y programa cada opción en una función aparte)  teniendo en cuenta que:
+3. **Ejercicio01.java:** añade el código que muestre por consola un  menú con las siguientes <br />  opciones (y programa cada opción en una función aparte)  teniendo en cuenta que:
     * a. Se debe pedir al usuario el número de opción del menú a ejecutar mediante la   <b/ >  función pideEntero() creada anteriormente. 
     * b. Si se pide un double, se debe pedir mediante la función double pideDouble( <b/ >    String pregunta). <br/ >
     
